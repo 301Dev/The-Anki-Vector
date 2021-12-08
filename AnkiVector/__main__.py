@@ -91,7 +91,7 @@ buttons = [
         InlineKeyboardButton(text="🎙Add vc play to your group ➕", url="t.me/yakari_music_play_newversion_bot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Inline media search 🔎", switch_inline_query=''"),
+        InlineKeyboardButton(text="Inline media search 🔎", switch_inline_query=''")
     ],
 ]
 
